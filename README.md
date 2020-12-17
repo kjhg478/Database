@@ -1,6 +1,6 @@
 # Database
 
-### 데이터베이스 설계 및 기본 쿼리에 관한 정보들
+### 데이터베이스 설계 및 오라클에 관한 많은 정보들
 
 #### DataBase Term
  - Relation = Table
